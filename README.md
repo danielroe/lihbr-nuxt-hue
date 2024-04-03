@@ -18,7 +18,7 @@
 1. Add `nuxt-hue` dependency globally
 
 ```bash
-yarn global add nuxt-hue # or npm install --global nuxt-hue
+yarn global add nuxt-hue # or npx nuxi@latest module add nuxt-hue
 ```
 
 2. Run the setup command and let the wizard guide you through
